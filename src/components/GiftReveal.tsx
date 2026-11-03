@@ -312,7 +312,7 @@ export const GiftReveal: React.FC<GiftRevealProps> = ({ onRestart }) => {
                         <p className="text-xs text-[#FFE1EC]/80 leading-relaxed">
                           To feature your custom video montage here, simply add{' '}
                           <code className="text-[#F7B8D0] font-mono bg-white/10 px-1 py-0.5 rounded">
-                            WhatsApp Video 2026-11-03 at 07.51.17.mp4
+                            gemini_generated_video_d5268d60.mp4
                           </code>{' '}
                           to the <code className="font-mono text-[#F7B8D0]">public/Video/</code> folder!
                         </p>

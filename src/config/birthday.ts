@@ -206,7 +206,7 @@ And if there's one thing I wish for, it's to create a thousand more beautiful me
   giftSurprise: {
     title: 'One Last Surprise, Situj… 🎁',
     subtitle: 'Something special is waiting for you.',
-    videoUrl: './Video/WhatsApp Video 2026-11-03 at 07.51.17.mp4',
+    videoUrl: './Video/gemini_generated_video_d5268d60.mp4',
     fallbackMontagePhotos: SITUJ_PHOTOS.filter((p) =>
       [
         'photo-pilot-couple',
