@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2a144a" />
+      <stop offset="50%" stop-color="#4a2574" />
+      <stop offset="100%" stop-color="#8a4b9c" />
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="40%" r="50%">
+      <stop offset="0%" stop-color="#f7b8d0" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#f7b8d0" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="600" height="600" fill="url(#bg)"/>
+  <circle cx="300" cy="260" r="200" fill="url(#glow)"/>
+  
+  <!-- Romantic Smile & Sparkles Artwork -->
+  <g transform="translate(300, 240)">
+    <circle cx="0" cy="0" r="90" fill="#ffe1ec" opacity="0.25"/>
+    <path d="M-40,10 Q0,50 40,10" fill="none" stroke="#ffe1ec" stroke-width="8" stroke-linecap="round"/>
+    <path d="M-60,-20 Q-40,-35 -20,-20" fill="none" stroke="#ffe1ec" stroke-width="6" stroke-linecap="round"/>
+    <path d="M20,-20 Q40,-35 60,-20" fill="none" stroke="#ffe1ec" stroke-width="6" stroke-linecap="round"/>
+    <!-- Blushing cheeks -->
+    <ellipse cx="-45" cy="5" rx="14" ry="8" fill="#f7b8d0" opacity="0.7"/>
+    <ellipse cx="45" cy="5" rx="14" ry="8" fill="#f7b8d0" opacity="0.7"/>
+    <!-- Cute chin accent -->
+    <path d="M-10,48 Q0,58 10,48" fill="none" stroke="#f7b8d0" stroke-width="4" stroke-linecap="round"/>
+  </g>
+  
+  <!-- Sparkles -->
+  <polygon points="160,140 165,155 180,160 165,165 160,180 155,165 140,160 155,155" fill="#fff8fc" opacity="0.8"/>
+  <polygon points="440,170 444,182 456,186 444,190 440,202 436,190 424,186 436,182" fill="#f7b8d0" opacity="0.85"/>
+  <polygon points="410,340 413,348 421,351 413,354 410,362 407,354 399,351 407,348" fill="#b9a0f5" opacity="0.8"/>
+
+  <!-- Romantic Frame -->
+  <rect x="25" y="25" width="550" height="550" fill="none" stroke="#b9a0f5" stroke-width="2" stroke-dasharray="8 6" opacity="0.5" rx="16"/>
+
+  <!-- Caption overlay -->
+  <text x="300" y="470" font-family="'Playfair Display', Georgia, serif" font-size="28" font-weight="600" fill="#fff8fc" text-anchor="middle">
+    Her Radiant Smile
+  </text>
+  <text x="300" y="510" font-family="'Outfit', sans-serif" font-size="16" fill="#f7b8d0" text-anchor="middle" letter-spacing="1">
+    [ Click to add your personal photo ]
+  </text>
+</svg>

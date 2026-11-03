@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg6" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1f1038" />
+      <stop offset="50%" stop-color="#461d68" />
+      <stop offset="100%" stop-color="#7e378c" />
+    </linearGradient>
+    <radialGradient id="glow6" cx="50%" cy="40%" r="50%">
+      <stop offset="0%" stop-color="#f7b8d0" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#f7b8d0" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="600" height="600" fill="url(#bg6)"/>
+  <circle cx="300" cy="240" r="190" fill="url(#glow6)"/>
+  
+  <!-- Infinity symbol with hearts -->
+  <g transform="translate(300, 230)">
+    <path d="M-60,0 C-100,-40 -100,40 -60,0 C-20,-40 20,40 60,0 C100,-40 100,40 60,0 C20,-40 -20,40 -60,0 Z" fill="none" stroke="#ffe1ec" stroke-width="8" stroke-linecap="round"/>
+    <!-- Rose petal / heart in center -->
+    <path d="M0,15 C-12,5 -15,-8 -8,-15 C-2,-20 0,-10 0,-10 C0,-10 2,-20 8,-15 C15,-8 12,5 0,15 Z" fill="#f7b8d0" opacity="0.95"/>
+    <text x="0" y="55" font-family="'Alex Brush', cursive" font-size="38" fill="#ffe1ec" text-anchor="middle">A Thousand More</text>
+  </g>
+  
+  <!-- Frame -->
+  <rect x="25" y="25" width="550" height="550" fill="none" stroke="#b9a0f5" stroke-width="2" stroke-dasharray="8 6" opacity="0.5" rx="16"/>
+
+  <text x="300" y="470" font-family="'Playfair Display', Georgia, serif" font-size="28" font-weight="600" fill="#fff8fc" text-anchor="middle">
+    A Thousand More Memories
+  </text>
+  <text x="300" y="510" font-family="'Outfit', sans-serif" font-size="16" fill="#f7b8d0" text-anchor="middle" letter-spacing="1">
+    [ Click to add your personal photo ]
+  </text>
+</svg>

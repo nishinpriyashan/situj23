@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg5" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#140f28" />
+      <stop offset="50%" stop-color="#2d1c52" />
+      <stop offset="100%" stop-color="#552c80" />
+    </linearGradient>
+    <radialGradient id="glow5" cx="50%" cy="40%" r="50%">
+      <stop offset="0%" stop-color="#b9a0f5" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#b9a0f5" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="600" height="600" fill="url(#bg5)"/>
+  <circle cx="300" cy="240" r="190" fill="url(#glow5)"/>
+  
+  <!-- Crescent moon, stars and cozy chats -->
+  <g transform="translate(300, 230)">
+    <!-- Crescent moon -->
+    <path d="M-20,-70 A60,60 0 1 0 50,40 A50,50 0 1 1 -20,-70 Z" fill="#ffe1ec" opacity="0.9"/>
+    <!-- Chat bubbles in love -->
+    <rect x="-80" y="0" width="70" height="45" rx="12" fill="#b9a0f5" opacity="0.85"/>
+    <polygon points="-65,45 -55,45 -60,55" fill="#b9a0f5"/>
+    <path d="M-50,22 C-50,15 -42,12 -38,18 C-34,12 -26,15 -26,22 C-26,28 -38,34 -38,34 C-38,34 -50,28 -50,22 Z" fill="#170d2e"/>
+    
+    <rect x="15" y="-30" width="75" height="45" rx="12" fill="#f7b8d0" opacity="0.85"/>
+    <polygon points="30,15 40,15 25,25" fill="#f7b8d0"/>
+    <path d="M45,-8 C45,-15 53,-18 57,-12 C61,-18 69,-15 69,-8 C69,-2 57,4 57,4 C57,4 45,-2 45,-8 Z" fill="#170d2e"/>
+  </g>
+  
+  <!-- Frame -->
+  <rect x="25" y="25" width="550" height="550" fill="none" stroke="#b9a0f5" stroke-width="2" stroke-dasharray="8 6" opacity="0.5" rx="16"/>
+
+  <text x="300" y="470" font-family="'Playfair Display', Georgia, serif" font-size="28" font-weight="600" fill="#fff8fc" text-anchor="middle">
+    Cozy Chats & Little Moments
+  </text>
+  <text x="300" y="510" font-family="'Outfit', sans-serif" font-size="16" fill="#f7b8d0" text-anchor="middle" letter-spacing="1">
+    [ Click to add your personal photo ]
+  </text>
+</svg>

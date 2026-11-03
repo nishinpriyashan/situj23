@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1b1238" />
+      <stop offset="50%" stop-color="#3d226a" />
+      <stop offset="100%" stop-color="#693b9e" />
+    </linearGradient>
+    <radialGradient id="glow3" cx="50%" cy="40%" r="50%">
+      <stop offset="0%" stop-color="#b9a0f5" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#b9a0f5" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="600" height="600" fill="url(#bg3)"/>
+  <circle cx="300" cy="240" r="190" fill="url(#glow3)"/>
+  
+  <!-- Glowing Heart with 1 Year milestone -->
+  <g transform="translate(300, 220)">
+    <path d="M0,70 C-110,0 -120,-80 -45,-100 C-10,-105 0,-70 0,-60 C0,-70 10,-105 45,-100 C120,-80 110,0 0,70 Z" fill="#f7b8d0" opacity="0.35"/>
+    <path d="M0,60 C-95,0 -105,-70 -40,-85 C-10,-90 0,-60 0,-50 C0,-60 10,-90 40,-85 C105,-70 95,0 0,60 Z" fill="none" stroke="#ffe1ec" stroke-width="4"/>
+    
+    <text x="0" y="-10" font-family="'Playfair Display', Georgia, serif" font-size="44" font-weight="700" fill="#fff8fc" text-anchor="middle">1 YEAR</text>
+    <text x="0" y="24" font-family="'Outfit', sans-serif" font-size="16" font-weight="500" fill="#b9a0f5" text-anchor="middle" letter-spacing="3">SINCE AUGUST</text>
+  </g>
+  
+  <!-- Frame -->
+  <rect x="25" y="25" width="550" height="550" fill="none" stroke="#b9a0f5" stroke-width="2" stroke-dasharray="8 6" opacity="0.5" rx="16"/>
+
+  <text x="300" y="470" font-family="'Playfair Display', Georgia, serif" font-size="28" font-weight="600" fill="#fff8fc" text-anchor="middle">
+    August Milestone: 1 Year
+  </text>
+  <text x="300" y="510" font-family="'Outfit', sans-serif" font-size="16" fill="#f7b8d0" text-anchor="middle" letter-spacing="1">
+    [ Click to add your personal photo ]
+  </text>
+</svg>

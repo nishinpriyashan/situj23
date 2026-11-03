@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg4" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2c123d" />
+      <stop offset="50%" stop-color="#55225c" />
+      <stop offset="100%" stop-color="#8a3b7d" />
+    </linearGradient>
+    <radialGradient id="glow4" cx="50%" cy="40%" r="50%">
+      <stop offset="0%" stop-color="#f7b8d0" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#f7b8d0" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="600" height="600" fill="url(#bg4)"/>
+  <circle cx="300" cy="240" r="180" fill="url(#glow4)"/>
+  
+  <!-- Romantic profile / cute chin detail vector -->
+  <g transform="translate(300, 230)">
+    <!-- Soft glowing ring -->
+    <circle cx="0" cy="0" r="100" fill="none" stroke="#ffe1ec" stroke-width="2" stroke-dasharray="4 4" opacity="0.6"/>
+    <!-- Minimalist side profile showing cute chin -->
+    <path d="M-30,-70 Q-10,-50 -15,-20 Q-20,0 -5,15 Q-15,35 -2,50 Q10,62 5,72 Q-5,85 -30,95" fill="none" stroke="#fff8fc" stroke-width="5" stroke-linecap="round"/>
+    <!-- Little heart near the chin -->
+    <path d="M25,65 C25,55 15,45 5,55 C-5,45 -15,55 -15,65 C-15,80 5,95 5,100 C5,95 25,80 25,65 Z" fill="#f7b8d0" opacity="0.9" transform="scale(0.6) translate(40, 20)"/>
+    <text x="0" y="10" font-family="'Alex Brush', cursive" font-size="46" fill="#ffe1ec" text-anchor="middle">Forever Adorable</text>
+  </g>
+  
+  <!-- Frame -->
+  <rect x="25" y="25" width="550" height="550" fill="none" stroke="#f7b8d0" stroke-width="2" stroke-dasharray="8 6" opacity="0.5" rx="16"/>
+
+  <text x="300" y="470" font-family="'Playfair Display', Georgia, serif" font-size="28" font-weight="600" fill="#fff8fc" text-anchor="middle">
+    That Cute Little Chin & Smile
+  </text>
+  <text x="300" y="510" font-family="'Outfit', sans-serif" font-size="16" fill="#f7b8d0" text-anchor="middle" letter-spacing="1">
+    [ Click to add your personal photo ]
+  </text>
+</svg>
