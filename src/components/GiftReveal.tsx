@@ -20,7 +20,7 @@ import { soundEffects } from '../utils/soundEffects';
 import { useDuckMusicWhilePlaying } from '../hooks/useMusicDucking';
 
 const VIDEO_SOURCES = Array.from(
-  new Set([BIRTHDAY_CONFIG.giftSurprise.videoUrl, '/videos/birthday-montage.mp4'])
+  new Set([BIRTHDAY_CONFIG.giftSurprise.videoUrl, './videos/birthday-montage.mp4'])
 );
 
 interface GiftRevealProps {
@@ -357,7 +357,7 @@ export const GiftReveal: React.FC<GiftRevealProps> = ({ onRestart }) => {
                 <div className="relative shrink-0">
                   <div className="w-28 h-36 sm:w-32 sm:h-40 rounded-2xl overflow-hidden border-2 border-yellow-300 shadow-xl bg-purple-950/50">
                     <img
-                      src="/Situj Photos/WhatsApp Image 2026-10-26 at 19.06.10.jpeg"
+                      src="./Situj Photos/WhatsApp Image 2026-10-26 at 19.06.10.jpeg"
                       alt="Captain Situj Official Portrait"
                       className="w-full h-full object-cover object-top"
                     />

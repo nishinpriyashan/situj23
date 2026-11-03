@@ -296,7 +296,7 @@ export const HeartGame: React.FC<HeartGameProps> = ({ onComplete }) => {
                 >
                   <div className="aspect-square w-full rounded-lg overflow-hidden bg-purple-950/20">
                     <img
-                      src="/Situj Photos/WhatsApp Image 2026-10-26 at 19.06.06 (1).jpeg"
+                      src="./Situj Photos/WhatsApp Image 2026-10-26 at 19.06.06 (1).jpeg"
                       alt="3D Glasses Squad Victory"
                       className="w-full h-full object-cover"
                     />

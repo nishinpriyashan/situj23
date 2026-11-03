@@ -163,7 +163,7 @@ export const MemoryGallery: React.FC<MemoryGalleryProps> = ({ onProceed }) => {
             <div className="w-48 sm:w-56 bg-white p-2.5 rounded-2xl shadow-2xl -rotate-2 border-2 border-pink-300 hover:rotate-0 transition-transform duration-300">
               <div className="aspect-[4/5] w-full rounded-xl overflow-hidden bg-purple-950/20 shadow-inner">
                 <img
-                  src="/Situj Photos/WhatsApp Image 2026-10-26 at 19.06.08.jpeg"
+                  src="./Situj Photos/WhatsApp Image 2026-10-26 at 19.06.08.jpeg"
                   alt="Co-Pilots in Love"
                   className="w-full h-full object-cover"
                 />

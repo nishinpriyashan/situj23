@@ -67,7 +67,7 @@ export interface BirthdayConfig {
   giftSurprise: {
     title: string;
     subtitle: string;
-    videoUrl: string; // E.g., '/videos/birthday-montage.mp4'
+    videoUrl: string; // E.g., './videos/birthday-montage.mp4'
     fallbackMontagePhotos: MemoryPhoto[];
     finalMessage: string;
     romanticTreatNote: string;
@@ -111,10 +111,10 @@ export const BIRTHDAY_CONFIG: BirthdayConfig = {
   music: {
     songTitle: 'Until I Found You',
     artist: 'Stephen Sanchez',
-    audioFile: '/website song/Stephen Sanchez - Until I Found You (Official Video).mp4',
+    audioFile: './website song/Stephen Sanchez - Until I Found You (Official Video).mp4',
     fallbackAudioFiles: [
-      '/audio/until-i-found-you.m4a',
-      '/audio/until-i-found-you.mp4',
+      './audio/until-i-found-you.m4a',
+      './audio/until-i-found-you.mp4',
     ],
     defaultTrack: 'original',
   },
@@ -206,7 +206,7 @@ And if there's one thing I wish for, it's to create a thousand more beautiful me
   giftSurprise: {
     title: 'One Last Surprise, Situj… 🎁',
     subtitle: 'Something special is waiting for you.',
-    videoUrl: '/Video/WhatsApp Video 2026-11-03 at 07.51.17.mp4',
+    videoUrl: './Video/WhatsApp Video 2026-11-03 at 07.51.17.mp4',
     fallbackMontagePhotos: SITUJ_PHOTOS.filter((p) =>
       [
         'photo-pilot-couple',

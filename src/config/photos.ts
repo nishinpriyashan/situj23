@@ -17,7 +17,7 @@ export const SITUJ_PHOTOS: SitujPhoto[] = [
   // --- GOOFY & HILARIOUS MASTERPIECES ---
   {
     id: 'photo-chin-framing',
-    url: '/Situj Photos/WhatsApp Image 2026-10-26 at 19.06.10 (2).jpeg',
+    url: './Situj Photos/WhatsApp Image 2026-10-26 at 19.06.10 (2).jpeg',
     title: 'The Legendary Chin Frame 🤌',
     caption: 'Behold: The world-famous chin in its full glory! Formally framing the greatest asset with pure dramatic elegance.',
     humorNote: 'Aviation authorities confirm: 100% aerodynamic and 200% adorable.',
@@ -31,7 +31,7 @@ export const SITUJ_PHOTOS: SitujPhoto[] = [
   },
   {
     id: 'photo-cheek-squish',
-    url: '/Situj Photos/WhatsApp Image 2026-10-26 at 19.06.08 (1).jpeg',
+    url: './Situj Photos/WhatsApp Image 2026-10-26 at 19.06.08 (1).jpeg',
     title: 'Cheek Squish Stress Relief 🤏',
     caption: 'My cheeks have been officially designated as her personal stress-ball toy. Note the thumb of absolute victory!',
     humorNote: 'Warning: Pinching cheeks may cause uncontrollable laughter and heart melting.',
@@ -45,7 +45,7 @@ export const SITUJ_PHOTOS: SitujPhoto[] = [
   },
   {
     id: 'photo-3d-squad',
-    url: '/Situj Photos/WhatsApp Image 2026-10-26 at 19.06.06 (1).jpeg',
+    url: './Situj Photos/WhatsApp Image 2026-10-26 at 19.06.06 (1).jpeg',
     title: '3D Glasses Action Movie Squad 🕶️🔥',
     caption: 'Everyone else tried to look intimidating and cool. Situj chose pure hyped-up gremlin energy!',
     humorNote: 'Critics call it: "The greatest cinema lobby performance in modern history."',
@@ -59,7 +59,7 @@ export const SITUJ_PHOTOS: SitujPhoto[] = [
   },
   {
     id: 'photo-low-angle-surveillance',
-    url: '/Situj Photos/WhatsApp Image 2026-10-26 at 19.06.05 (1).jpeg',
+    url: './Situj Photos/WhatsApp Image 2026-10-26 at 19.06.05 (1).jpeg',
     title: 'Security Camera Low-Angle Double Chin 📹',
     caption: 'Accidental front camera angles: when you look down to check your food order status.',
     humorNote: 'Certified best boyfriend view: Looking up at pure chaotic cuteness.',
@@ -73,7 +73,7 @@ export const SITUJ_PHOTOS: SitujPhoto[] = [
   },
   {
     id: 'photo-beach-squint-cat',
-    url: '/Situj Photos/WhatsApp Image 2026-10-26 at 19.06.04 (1).jpeg',
+    url: './Situj Photos/WhatsApp Image 2026-10-26 at 19.06.04 (1).jpeg',
     title: 'Cat Shirt vs. Tropical Sunlight ☀️🐾',
     caption: 'The sun was disrespecting her eyes, but the hanging cat shirt remained undefeated.',
     humorNote: 'Sunglasses left in the car, regret level: Maximum.',
@@ -87,7 +87,7 @@ export const SITUJ_PHOTOS: SitujPhoto[] = [
   },
   {
     id: 'photo-extreme-stare',
-    url: '/Situj Photos/WhatsApp Image 2026-10-26 at 19.06.05.jpeg',
+    url: './Situj Photos/WhatsApp Image 2026-10-26 at 19.06.05.jpeg',
     title: 'The Interrogation Stare 👁️👄👁️',
     caption: 'The exact expression she makes when you say "I\'m not really hungry" and then eat three of her fries.',
     humorNote: 'FBI agents study this stare for lie-detection masterclasses.',
@@ -101,7 +101,7 @@ export const SITUJ_PHOTOS: SitujPhoto[] = [
   },
   {
     id: 'photo-bombastic-side-eye',
-    url: '/Situj Photos/WhatsApp Image 2026-10-26 at 19.06.00.jpeg',
+    url: './Situj Photos/WhatsApp Image 2026-10-26 at 19.06.00.jpeg',
     title: 'The High-School Era Bombastic Side-Eye 😒',
     caption: 'Legendary throwback! A world-class side-eye smirk that could dismantle an argument in 0.2 seconds.',
     humorNote: 'Criminal offensive side-eye. Sentence: Unlimited hugs and chocolates.',
@@ -115,7 +115,7 @@ export const SITUJ_PHOTOS: SitujPhoto[] = [
   },
   {
     id: 'photo-biker-helmet',
-    url: '/Situj Photos/WhatsApp Image 2026-10-26 at 19.06.05 (2).jpeg',
+    url: './Situj Photos/WhatsApp Image 2026-10-26 at 19.06.05 (2).jpeg',
     title: 'Fast & Furious: Helmet Smirk 🛵💨',
     caption: 'Get in loser, we are going to find gourmet desserts and late-night street food!',
     humorNote: 'Aerodynamically certified helmet. Zero chance of hairstyle surviving.',
@@ -129,7 +129,7 @@ export const SITUJ_PHOTOS: SitujPhoto[] = [
   },
   {
     id: 'photo-facetime-drama',
-    url: '/Situj Photos/WhatsApp Image 2026-10-26 at 19.06.06.jpeg',
+    url: './Situj Photos/WhatsApp Image 2026-10-26 at 19.06.06.jpeg',
     title: 'FaceTime Mid-Sentence Tea Spilling ☕📱',
     caption: 'Screenshotting FaceTime calls is a dangerous sport, but this freeze-frame is journalistic gold.',
     humorNote: '"AND THEN SHE REALLY SAID THAT! CAN YOU BELIEVE IT?!"',
@@ -143,7 +143,7 @@ export const SITUJ_PHOTOS: SitujPhoto[] = [
   },
   {
     id: 'photo-diagonal-slump',
-    url: '/Situj Photos/WhatsApp Image 2026-10-26 at 19.06.04.jpeg',
+    url: './Situj Photos/WhatsApp Image 2026-10-26 at 19.06.04.jpeg',
     title: 'Post-Lecture Slump Geometry 📐🥱',
     caption: 'Gravity was simply too strong today. Slanted camera angle to match the mental tilt.',
     humorNote: 'Recharging battery: 4% remaining. Please insert iced coffee.',
@@ -157,7 +157,7 @@ export const SITUJ_PHOTOS: SitujPhoto[] = [
   },
   {
     id: 'photo-couple-wink-pout',
-    url: '/Situj Photos/WhatsApp Image 2026-10-26 at 19.05.59.jpeg',
+    url: './Situj Photos/WhatsApp Image 2026-10-26 at 19.05.59.jpeg',
     title: 'The Formal Event Duck Pout & Wink 🦆😉',
     caption: 'Dressed up to the nines, but maturity lasted about four seconds before the duck-pout took over.',
     humorNote: 'Professional on the outside, 100% cheeky rebel on the inside.',
@@ -173,7 +173,7 @@ export const SITUJ_PHOTOS: SitujPhoto[] = [
   // --- PILOT & AVIATION PRIDE ---
   {
     id: 'photo-pilot-couple',
-    url: '/Situj Photos/WhatsApp Image 2026-10-26 at 19.06.08.jpeg',
+    url: './Situj Photos/WhatsApp Image 2026-10-26 at 19.06.08.jpeg',
     title: 'Co-Pilots in Love & Flight ✈️❤️',
     caption: 'Both of us in matching flight uniforms, ready to conquer the sky and steal each other\'s hearts.',
     humorNote: 'ATC clearance granted: Direct route to 23rd birthday happiness!',
@@ -184,7 +184,7 @@ export const SITUJ_PHOTOS: SitujPhoto[] = [
   },
   {
     id: 'photo-pilot-portrait-arms-crossed',
-    url: '/Situj Photos/WhatsApp Image 2026-10-26 at 19.06.10.jpeg',
+    url: './Situj Photos/WhatsApp Image 2026-10-26 at 19.06.10.jpeg',
     title: 'Captain Ksheshira Situge on Deck 👩‍✈️✨',
     caption: 'The crisp uniform, the shiny gold wings badge, and that unmistakable confident boss look.',
     humorNote: 'Cabin crew, prepare for takeoff and prepare for Situj\'s commands!',
@@ -195,7 +195,7 @@ export const SITUJ_PHOTOS: SitujPhoto[] = [
   },
   {
     id: 'photo-pilot-bench-gestures',
-    url: '/Situj Photos/WhatsApp Image 2026-10-26 at 19.06.07 (1).jpeg',
+    url: './Situj Photos/WhatsApp Image 2026-10-26 at 19.06.07 (1).jpeg',
     title: 'Briefing the Flight Plan (With Passion!) 📋🎙️',
     caption: 'Explaining flight physics, or possibly explaining why dinner should be pizza tonight.',
     humorNote: 'Pre-flight checklist: 1. Fuel full. 2. Situj happy. 3. Chocolates secured.',
@@ -206,7 +206,7 @@ export const SITUJ_PHOTOS: SitujPhoto[] = [
   },
   {
     id: 'photo-pilot-bench-laugh',
-    url: '/Situj Photos/WhatsApp Image 2026-10-26 at 19.06.07.jpeg',
+    url: './Situj Photos/WhatsApp Image 2026-10-26 at 19.06.07.jpeg',
     title: 'Mid-Laugh Flight Debrief 😆',
     caption: 'Unable to keep a straight face for more than three seconds during serious flight training.',
     humorNote: 'Laughter is the real anti-gravity force in her universe.',
@@ -217,7 +217,7 @@ export const SITUJ_PHOTOS: SitujPhoto[] = [
   },
   {
     id: 'photo-pilot-pillar-smile',
-    url: '/Situj Photos/WhatsApp Image 2026-10-26 at 19.06.07 (2).jpeg',
+    url: './Situj Photos/WhatsApp Image 2026-10-26 at 19.06.07 (2).jpeg',
     title: 'Sunny Pilot Ready for Duty ☀️🛫',
     caption: 'Hands in pockets, bright sunshine, and the brightest smile in the entire hangar.',
     humorNote: 'Look at that posture! Clear skies and unlimited visibility ahead.',
@@ -228,7 +228,7 @@ export const SITUJ_PHOTOS: SitujPhoto[] = [
   },
   {
     id: 'photo-pilot-backpack-lean',
-    url: '/Situj Photos/WhatsApp Image 2026-10-26 at 19.06.06 (2).jpeg',
+    url: './Situj Photos/WhatsApp Image 2026-10-26 at 19.06.06 (2).jpeg',
     title: 'The Tactical Backpack Nap-Cushion 🎒😴',
     caption: 'Using the heavy flight gear bag as a luxury armrest while waiting for the next briefing.',
     humorNote: 'Aerospace engineers confirm: Backpacks make superior pillows.',
@@ -239,7 +239,7 @@ export const SITUJ_PHOTOS: SitujPhoto[] = [
   },
   {
     id: 'photo-pilot-balcony-view',
-    url: '/Situj Photos/WhatsApp Image 2026-10-26 at 19.06.12 (2).jpeg',
+    url: './Situj Photos/WhatsApp Image 2026-10-26 at 19.06.12 (2).jpeg',
     title: 'Corridor Overlook & Flying Dreams 🌤️',
     caption: 'Leaning over the rail watching the runway, dreaming of clear skies and endless adventures.',
     humorNote: 'Radar status: Target locked on future greatness.',
@@ -250,7 +250,7 @@ export const SITUJ_PHOTOS: SitujPhoto[] = [
   },
   {
     id: 'photo-air-show-selfie',
-    url: '/Situj Photos/WhatsApp Image 2026-10-26 at 19.06.12.jpeg',
+    url: './Situj Photos/WhatsApp Image 2026-10-26 at 19.06.12.jpeg',
     title: 'Air Show 2026 Field Report ✈️🎪',
     caption: 'Front row at the big Air Show! Epaulettes on point, soaking up the jet fuel and excitement.',
     humorNote: 'She didn\'t just attend the air show, she was the main attraction.',
@@ -263,7 +263,7 @@ export const SITUJ_PHOTOS: SitujPhoto[] = [
   // --- SWEET & ROMANTIC MOMENTS ---
   {
     id: 'photo-bus-ride-smiles',
-    url: '/Situj Photos/WhatsApp Image 2026-10-26 at 19.06.12 (1).jpeg',
+    url: './Situj Photos/WhatsApp Image 2026-10-26 at 19.06.12 (1).jpeg',
     title: 'Bumpy Bus Rides & Cozy Smiles 🚌💫',
     caption: 'No luxury cars needed when everyday transit with you feels like the best journey in the world.',
     humorNote: 'Holding on for dear life while smiling for the selfie.',
@@ -274,7 +274,7 @@ export const SITUJ_PHOTOS: SitujPhoto[] = [
   },
   {
     id: 'photo-peace-emojis-night',
-    url: '/Situj Photos/WhatsApp Image 2026-10-26 at 19.06.11 (2).jpeg',
+    url: './Situj Photos/WhatsApp Image 2026-10-26 at 19.06.11 (2).jpeg',
     title: 'Midnight Peace & Sweet Emojis ✌️✨',
     caption: 'Under the starry night, peace sign up, with hearts and kisses floating around us forever.',
     humorNote: 'Emoji count: 100% representative of our actual WhatsApp chat.',
@@ -285,7 +285,7 @@ export const SITUJ_PHOTOS: SitujPhoto[] = [
   },
   {
     id: 'photo-dressed-up-lights-couple',
-    url: '/Situj Photos/WhatsApp Image 2026-10-26 at 19.06.10 (1).jpeg',
+    url: './Situj Photos/WhatsApp Image 2026-10-26 at 19.06.10 (1).jpeg',
     title: 'Fairy Lights & My Favorite Person 🏮💞',
     caption: 'Standing together amidst glittering lights and celebrations. She outshone every single light in that room.',
     humorNote: 'Matchy-matchy royal vibes: The pilot queen and her humble admirer.',
@@ -296,7 +296,7 @@ export const SITUJ_PHOTOS: SitujPhoto[] = [
   },
   {
     id: 'photo-dinner-date-bracelet',
-    url: '/Situj Photos/WhatsApp Image 2026-10-26 at 19.06.17.jpeg',
+    url: './Situj Photos/WhatsApp Image 2026-10-26 at 19.06.17.jpeg',
     title: 'Candlelit Dinner & The Lucky Bracelet 🕯️✨',
     caption: 'A magical dinner date in white puff sleeves, with the lucky charm bracelet on her wrist.',
     humorNote: 'Green circle added by boyfriend to highlight the VIP wrist accessory.',
@@ -307,7 +307,7 @@ export const SITUJ_PHOTOS: SitujPhoto[] = [
   },
   {
     id: 'photo-cheeks-in-hands-cafe',
-    url: '/Situj Photos/WhatsApp Image 2026-10-26 at 19.06.16 (1).jpeg',
+    url: './Situj Photos/WhatsApp Image 2026-10-26 at 19.06.16 (1).jpeg',
     title: 'The "Waiting for Dessert" Pose 🍰🥰',
     caption: 'Resting both cheeks in her hands, looking at me with those sparkly eyes and the sweetest smile.',
     humorNote: 'Science fact: It is biologically impossible to say "no" to this face.',
@@ -318,7 +318,7 @@ export const SITUJ_PHOTOS: SitujPhoto[] = [
   },
   {
     id: 'photo-chin-on-hands-dog-charm',
-    url: '/Situj Photos/WhatsApp Image 2026-10-26 at 19.06.16.jpeg',
+    url: './Situj Photos/WhatsApp Image 2026-10-26 at 19.06.16.jpeg',
     title: 'Puppy Charm & Chin Rest 🐾🤍',
     caption: 'Resting that famous chin on folded hands, showing off the cute little dog charm bracelet.',
     humorNote: 'The chin: 10/10. The bracelet: 10/10. Situj: Off the charts.',
@@ -329,7 +329,7 @@ export const SITUJ_PHOTOS: SitujPhoto[] = [
   },
   {
     id: 'photo-room-laugh-delirious',
-    url: '/Situj Photos/WhatsApp Image 2026-10-26 at 19.06.09 (2).jpeg',
+    url: './Situj Photos/WhatsApp Image 2026-10-26 at 19.06.09 (2).jpeg',
     title: 'Uncontrollable Giggles at Home 🤣💕',
     caption: 'Hand on head, laughing so hard the camera shook! These raw, honest laughs are my absolute favorite.',
     humorNote: 'Decibel level: Shook the curtains. Joy level: Infinite.',
@@ -342,7 +342,7 @@ export const SITUJ_PHOTOS: SitujPhoto[] = [
   // --- GLAMOUR & DRESSED TO SLAY ---
   {
     id: 'photo-pink-dress-full-corridor',
-    url: '/Situj Photos/WhatsApp Image 2026-10-26 at 19.06.11.jpeg',
+    url: './Situj Photos/WhatsApp Image 2026-10-26 at 19.06.11.jpeg',
     title: 'The Pink Lehenga Royalty 🌸👑',
     caption: 'Flowing pastel pink lehenga, lit-up hallway, and a smile that commanded every room she walked into.',
     humorNote: 'Disney called, they want their real-life princess back.',
@@ -353,7 +353,7 @@ export const SITUJ_PHOTOS: SitujPhoto[] = [
   },
   {
     id: 'photo-pink-dress-sideways-glam',
-    url: '/Situj Photos/WhatsApp Image 2026-10-26 at 19.06.10 (3).jpeg',
+    url: './Situj Photos/WhatsApp Image 2026-10-26 at 19.06.10 (3).jpeg',
     title: 'The Editorial Side Glance 💅',
     caption: 'Handcrafted floral top, bangles clinking, casually posing like a high-fashion magazine cover.',
     humorNote: 'Vogue editors are furiously taking notes right now.',
@@ -364,7 +364,7 @@ export const SITUJ_PHOTOS: SitujPhoto[] = [
   },
   {
     id: 'photo-red-dress-bliss-eyes-closed',
-    url: '/Situj Photos/WhatsApp Image 2026-10-26 at 19.06.09 (1).jpeg',
+    url: './Situj Photos/WhatsApp Image 2026-10-26 at 19.06.09 (1).jpeg',
     title: 'Crimson Serenity & Sweet Peace 🌹',
     caption: 'Dressed in vibrant crimson traditional wear, eyes gently shut in sweet happiness.',
     humorNote: 'Radiating calm, peace, and 100% birthday elegance.',
@@ -375,7 +375,7 @@ export const SITUJ_PHOTOS: SitujPhoto[] = [
   },
   {
     id: 'photo-red-dress-door-lean',
-    url: '/Situj Photos/WhatsApp Image 2026-10-26 at 19.06.09.jpeg',
+    url: './Situj Photos/WhatsApp Image 2026-10-26 at 19.06.09.jpeg',
     title: 'Crimson Saree Elegance by the Doorway 🚪❤️',
     caption: 'Classic Sri Lankan traditional aesthetic, gold belt chain, and effortless grace.',
     humorNote: 'Striking poses so naturally she puts professional runway models to shame.',
@@ -386,7 +386,7 @@ export const SITUJ_PHOTOS: SitujPhoto[] = [
   },
   {
     id: 'photo-party-dance-eyes-shut',
-    url: '/Situj Photos/WhatsApp Image 2026-10-26 at 19.06.11 (1).jpeg',
+    url: './Situj Photos/WhatsApp Image 2026-10-26 at 19.06.11 (1).jpeg',
     title: 'Party Lights & Dance Floor Euphoria 🪩✨',
     caption: 'Living her absolute best life under the neon party lights, laughing with eyes squeezed shut.',
     humorNote: 'Soundtrack playing: Pure dance floor happiness and zero worries.',
@@ -397,7 +397,7 @@ export const SITUJ_PHOTOS: SitujPhoto[] = [
   },
   {
     id: 'photo-school-smile-sunshine',
-    url: '/Situj Photos/WhatsApp Image 2026-10-26 at 19.05.59 (1).jpeg',
+    url: './Situj Photos/WhatsApp Image 2026-10-26 at 19.05.59 (1).jpeg',
     title: 'The Pure Sunshine Throwback ☀️🎒',
     caption: 'The genuine, radiant uniform smile that started a million heartbeats. Proof that her smile has always been pure magic.',
     humorNote: 'Dental advertisement scout: "We found our winner."',
@@ -408,7 +408,7 @@ export const SITUJ_PHOTOS: SitujPhoto[] = [
   },
   {
     id: 'photo-leaning-forearm-gaze',
-    url: '/Situj Photos/WhatsApp Image 2026-10-26 at 19.06.00 (1).jpeg',
+    url: './Situj Photos/WhatsApp Image 2026-10-26 at 19.06.00 (1).jpeg',
     title: 'The "I Am Listening... Intently" Stare 🧐',
     caption: 'Leaning on her forearm with laser-focused eyes. You better make sure your excuse makes sense!',
     humorNote: 'Lie detector status: 99.9% accuracy rate guaranteed.',

@@ -148,7 +148,7 @@ export const LoveLetter: React.FC<LoveLetterProps> = ({ onProceed }) => {
                             >
                               <div className="aspect-[4/3] w-full rounded-lg overflow-hidden bg-purple-100">
                                 <img
-                                  src="/Situj Photos/WhatsApp Image 2026-10-26 at 19.06.10 (2).jpeg"
+                                  src="./Situj Photos/WhatsApp Image 2026-10-26 at 19.06.10 (2).jpeg"
                                   alt="The Famous Chin"
                                   className="w-full h-full object-cover"
                                 />
@@ -169,7 +169,7 @@ export const LoveLetter: React.FC<LoveLetterProps> = ({ onProceed }) => {
                             >
                               <div className="aspect-[4/3] w-full rounded-lg overflow-hidden bg-purple-100">
                                 <img
-                                  src="/Situj Photos/WhatsApp Image 2026-10-26 at 19.06.16 (1).jpeg"
+                                  src="./Situj Photos/WhatsApp Image 2026-10-26 at 19.06.16 (1).jpeg"
                                   alt="Dessert Anticipation"
                                   className="w-full h-full object-cover"
                                 />
@@ -188,7 +188,7 @@ export const LoveLetter: React.FC<LoveLetterProps> = ({ onProceed }) => {
                   <div className="pt-6 mt-6 border-t border-purple-200/60 flex flex-col sm:flex-row items-center justify-between gap-4">
                     <div className="w-28 sm:w-32 bg-white p-1.5 rounded-lg shadow-md -rotate-3 border border-pink-200">
                       <img
-                        src="/Situj Photos/WhatsApp Image 2026-10-26 at 19.06.08 (1).jpeg"
+                        src="./Situj Photos/WhatsApp Image 2026-10-26 at 19.06.08 (1).jpeg"
                         alt="Cheek Squish Forever"
                         className="w-full h-20 object-cover rounded"
                       />

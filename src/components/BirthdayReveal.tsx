@@ -20,21 +20,21 @@ const HIGHLIGHT_DETAILS: HighlightPill[] = [
   {
     id: 'smile',
     label: 'That captivating smile',
-    photoUrl: '/Situj Photos/WhatsApp Image 2026-10-26 at 19.06.11.jpeg',
+    photoUrl: './Situj Photos/WhatsApp Image 2026-10-26 at 19.06.11.jpeg',
     caption: 'Her smile can literally illuminate the entire sky.',
     humorNote: 'Verified 100% genuine and 1000% infectious! 😄',
   },
   {
     id: 'anniversary',
     label: '1 year milestone since August',
-    photoUrl: '/Situj Photos/WhatsApp Image 2026-10-26 at 19.06.08.jpeg',
+    photoUrl: './Situj Photos/WhatsApp Image 2026-10-26 at 19.06.08.jpeg',
     caption: 'Co-pilots in flight and forever partners in life.',
     humorNote: 'Cleared for unlimited happiness on runway 23! ✈️❤️',
   },
   {
     id: 'chin',
     label: 'The cutest chin in the world',
-    photoUrl: '/Situj Photos/WhatsApp Image 2026-10-26 at 19.06.10 (2).jpeg',
+    photoUrl: './Situj Photos/WhatsApp Image 2026-10-26 at 19.06.10 (2).jpeg',
     caption: 'Exhibit A: The internationally recognized chin framing pose.',
     humorNote: 'Voted #1 most boopable chin in the galaxy! 🤌✨',
   },
@@ -141,7 +141,7 @@ export const BirthdayReveal: React.FC<BirthdayRevealProps> = ({ onProceed }) => 
             >
               <div className="aspect-square w-full rounded-lg overflow-hidden bg-purple-950/20">
                 <img
-                  src="/Situj Photos/WhatsApp Image 2026-10-26 at 19.06.10 (2).jpeg"
+                  src="./Situj Photos/WhatsApp Image 2026-10-26 at 19.06.10 (2).jpeg"
                   alt="Situj Chin Pose"
                   className="w-full h-full object-cover"
                 />
@@ -159,7 +159,7 @@ export const BirthdayReveal: React.FC<BirthdayRevealProps> = ({ onProceed }) => 
             >
               <div className="aspect-square w-full rounded-lg overflow-hidden bg-purple-950/20">
                 <img
-                  src="/Situj Photos/WhatsApp Image 2026-10-26 at 19.06.11.jpeg"
+                  src="./Situj Photos/WhatsApp Image 2026-10-26 at 19.06.11.jpeg"
                   alt="Birthday Queen Situj"
                   className="w-full h-full object-cover object-top"
                 />
@@ -177,7 +177,7 @@ export const BirthdayReveal: React.FC<BirthdayRevealProps> = ({ onProceed }) => 
             >
               <div className="aspect-square w-full rounded-lg overflow-hidden bg-purple-950/20">
                 <img
-                  src="/Situj Photos/WhatsApp Image 2026-10-26 at 19.06.08 (1).jpeg"
+                  src="./Situj Photos/WhatsApp Image 2026-10-26 at 19.06.08 (1).jpeg"
                   alt="Cheek Squish Couple"
                   className="w-full h-full object-cover"
                 />

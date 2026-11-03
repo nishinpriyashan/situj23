@@ -262,7 +262,7 @@ export const BirthdayCake3D: React.FC<BirthdayCake3DProps> = ({ onProceed }) => 
             >
               <div className="w-16 h-16 sm:w-20 sm:h-20 rounded-xl overflow-hidden border border-pink-300 shrink-0 bg-purple-950/40 shadow-md">
                 <img
-                  src="/Situj Photos/WhatsApp Image 2026-10-26 at 19.06.09 (2).jpeg"
+                  src="./Situj Photos/WhatsApp Image 2026-10-26 at 19.06.09 (2).jpeg"
                   alt="Situj Joyful Laugh"
                   className="w-full h-full object-cover"
                 />

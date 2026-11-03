@@ -58,7 +58,7 @@ export const PasswordGate: React.FC<PasswordGateProps> = ({ onUnlock }) => {
               title="Captain Situj - Chief Security Officer"
             >
               <img
-                src="/Situj Photos/WhatsApp Image 2026-10-26 at 19.06.10.jpeg"
+                src="./Situj Photos/WhatsApp Image 2026-10-26 at 19.06.10.jpeg"
                 alt="Captain Situj"
                 className="w-full h-full object-cover object-top rounded-full"
               />
@@ -260,7 +260,7 @@ export const PasswordGate: React.FC<PasswordGateProps> = ({ onUnlock }) => {
               {/* The Staring Situj Meme Image */}
               <div className="relative aspect-square w-full rounded-2xl overflow-hidden border-2 border-rose-400/60 mb-4 shadow-inner">
                 <img
-                  src="/Situj Photos/WhatsApp Image 2026-10-26 at 19.06.05.jpeg"
+                  src="./Situj Photos/WhatsApp Image 2026-10-26 at 19.06.05.jpeg"
                   alt="Situj Staring Accusingly"
                   className="w-full h-full object-cover scale-110"
                 />
